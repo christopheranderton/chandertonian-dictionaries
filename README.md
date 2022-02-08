@@ -1,5 +1,5 @@
 #  Chandertonian Dictionaries
-**Nothing here yet. But watch this space.**   
+Resources. 
 Dictionaries, lexicons, wordbooks, glossaries, vocabulary lists, word lists and others. 
 
 
